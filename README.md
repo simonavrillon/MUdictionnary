@@ -15,3 +15,6 @@ Dr. Simon Avrillon
  / 86 Wood Ln
  / London W12 0BZ
  / E-mail address: s.avrillon@imperial.ac.uk
+
+If you re-use the data, please cite:
+>S. Avrillon, F. Hug, R. Enoka, A. H. Caillet, D. Farina, The decoding of extensive samples of motor units in human muscles reveals the rate coding of entire motoneuron pools. bioRxiv 10.1101/2023.11.25.568607, 2023.2011.2025.568607 (2023).
