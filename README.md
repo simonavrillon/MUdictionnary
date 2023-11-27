@@ -4,7 +4,7 @@ This repository provides access to the code and data used in the preprint: 'The 
 The code from th repository MUdict will specifically enable you to track motor units across contractions to create a dictionary of unique motor units.
 
 # Data
-You will find all the data on Figshare (). You have 16 participants (S1 to S18) performing either a knee extension (KE) or a dorsiflexion (DF). EMG signals were respectively recorded from the Vastus Lateralis or the Tibialis Anterior with four grids of 64 electrodes during trapezoidal contractions reaching 10% to 80% of the maximal force.
+You will find all the data on Figshare (10.6084/m9.figshare.24640944). You have 16 participants (S1 to S18) performing either a knee extension (KE) or a dorsiflexion (DF). EMG signals were respectively recorded from the Vastus Lateralis or the Tibialis Anterior with four grids of 64 electrodes during trapezoidal contractions reaching 10% to 80% of the maximal force.
 
 # Citation and technical support:
 
