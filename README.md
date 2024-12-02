@@ -17,4 +17,4 @@ Dr. Simon Avrillon
  / E-mail address: s.avrillon@imperial.ac.uk
 
 If you re-use the data, please cite:
->S. Avrillon, F. Hug, R. Enoka, A. H. Caillet, D. Farina, The decoding of extensive samples of motor units in human muscles reveals the rate coding of entire motoneuron pools. bioRxiv 10.1101/2023.11.25.568607, 2023.2011.2025.568607 (2023).
+> Avrillon, S., Hug, F., Enoka, R., Caillet, A.H., and Farina, D. (2024). The identification of extensive samples of motor units in human muscles reveals diverse effects of neuromodulatory inputs on the rate coding.  eLife Sciences Publications, Ltd.
